@@ -4,7 +4,7 @@ Solutions to problems sent by dailycodingproblem.com
 
 ---
 
-#### Problem 1
+#### Problem 1 [Easy]
 
 Given a list of numbers, return whether any two sums to k.
 For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
@@ -15,7 +15,7 @@ Bonus: Can you do this in one pass?
 
 ---
 
-#### Problem 2
+#### Problem 2 [Hard]
 
 This problem was asked by Uber.
 
@@ -29,7 +29,7 @@ Follow-up: what if you can't use division?
 
 ---
 
-#### Problem 3
+#### Problem 3 [Medium]
 
 This problem was asked by Google.
 
@@ -39,7 +39,7 @@ Given the root to a binary tree, implement serialize(root), which serializes the
 
 ---
 
-#### Problem 4
+#### Problem 4 [Hard]
 
 This problem was asked by Stripe.
 
@@ -53,7 +53,7 @@ You can modify the input array in-place.
 
 ---
 
-#### Problem 5
+#### Problem 5 [Medium]
 
 This problem was asked by Jane Street.
 
@@ -70,7 +70,7 @@ Implement car and cdr.
 
 ---
 
-#### Problem 6
+#### Problem 6 [Hard]
 
 This problem was asked by Google.
 
@@ -82,7 +82,7 @@ If using a language that has no pointers (such as Python), you can assume you ha
 
 ---
 
-#### Problem 7
+#### Problem 7 [Medium]
 
 This problem was asked by Facebook.
 
@@ -96,7 +96,7 @@ You can assume that the messages are decodable. For example, '001' is not allowe
 
 ---
 
-#### Problem 8
+#### Problem 8 [Easy]
 
 This problem was asked by Google.
 
@@ -120,7 +120,7 @@ For example, the following tree has 5 unival subtrees:
 
 ---
 
-#### Problem 9
+#### Problem 9 [Hard]
 
 This problem was asked by Airbnb.
 
@@ -132,7 +132,7 @@ For example, [2, 4, 6, 8] should return 12, since we pick 4 and 8. [5, 1, 1, 5] 
 
 ---
 
-#### Problem 10
+#### Problem 10 [Medium]
 
 This problem was asked by Apple.
 
@@ -142,7 +142,7 @@ Implement a job scheduler which takes in a function f and an integer n, and call
 
 ---
 
-#### Problem 11
+#### Problem 11 [Medium]
 
 This problem was asked by Twitter.
 
@@ -156,7 +156,7 @@ Hint: Try preprocessing the dictionary into a more efficient data structure to s
 
 ---
 
-#### Problem 12
+#### Problem 12 [Hard]
 
 This problem was asked by Amazon.
 
@@ -178,7 +178,7 @@ What if, instead of being able to climb 1 or 2 steps at a time, you could climb 
 
 ---
 
-#### Problem 13
+#### Problem 13 [Hard]
 
 This problem was asked by Amazon.
 
@@ -190,7 +190,7 @@ For example, given s = "abcba" and k = 2, the longest substring with k distinct 
 
 ---
 
-#### Problem 14
+#### Problem 14 [Medium]
 
 This problem was asked by Google.
 
@@ -202,7 +202,7 @@ Hint: The basic equation of a circle is x^2 + y^2 = r^2.
 
 ---
 
-#### Problem 15
+#### Problem 15 [Medium]
 
 This problem was asked by Facebook.
 
@@ -212,7 +212,7 @@ Given a stream of elements too large to store in memory, pick a random element f
 
 ---
 
-#### Problem 16
+#### Problem 16 [Easy]
 
 This problem was asked by Twitter.
 
@@ -226,7 +226,7 @@ You should be as efficient with time and space as possible.
 
 ---
 
-#### Problem 17
+#### Problem 17 [Hard]
 
 This problem was asked by Google.
 
@@ -265,7 +265,7 @@ Given a string representing the file system in the above format, return the leng
 
 ---
 
-#### Problem 18
+#### Problem 18 [Hard]
 
 This problem was asked by Google.
 
@@ -286,7 +286,7 @@ Do this in O(n) time and O(k) space. You can modify the input array in-place and
 
 ---
 
-#### Problem 19
+#### Problem 19 [Medium]
 
 This problem was asked by Facebook.
 
@@ -298,7 +298,7 @@ Given an N by K matrix where the nth row and kth column represents the cost to b
 
 ---
 
-#### Problem 20
+#### Problem 20 [Easy]
 
 This problem was asked by Google.
 
@@ -314,7 +314,7 @@ Do this in O(M + N) time (where M and N are the lengths of the lists) and consta
 
 ---
 
-#### Problem 21
+#### Problem 21 [Easy]
 
 This problem was asked by Snapchat.
 
@@ -326,7 +326,7 @@ For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
 ---
 
-#### Problem 22
+#### Problem 22 [Medium]
 
 This problem was asked by Microsoft.
 
@@ -340,7 +340,7 @@ Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string
 
 ---
 
-#### Problem 23
+#### Problem 23 [Easy]
 
 This problem was asked by Google.
 
@@ -363,7 +363,7 @@ and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number
 
 ---
 
-#### Problem 24
+#### Problem 24 [Medium]
 
 This problem was asked by Google.
 
@@ -380,7 +380,7 @@ You may augment the node to add parent pointers or any other property you would 
 
 ---
 
-#### Problem 25
+#### Problem 25 [Hard]
 
 This problem was asked by Facebook.
 
@@ -398,7 +398,7 @@ Given the regular expression `".*at"` and the string "chat", your function shoul
 
 ---
 
-#### Problem 26
+#### Problem 26 [Medium]
 
 This problem was asked by Google.
 
@@ -412,7 +412,7 @@ Do this in constant space and in one pass.
 
 ---
 
-#### Problem 27
+#### Problem 27 [Easy]
 
 This problem was asked by Facebook.
 
@@ -426,7 +426,7 @@ Given the string "([)]" or "((()", you should return false.
 
 ---
 
-#### Problem 28
+#### Problem 28 [Medium]
 
 This problem was asked by Palantir.
 
@@ -448,7 +448,7 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps", "
 
 ---
 
-#### Problem 29
+#### Problem 29 [Easy]
 
 
 This problem was asked by Amazon.
@@ -461,7 +461,7 @@ Implement run-length encoding and decoding. You can assume the string to be enco
 
 ---
 
-#### Problem 30
+#### Problem 30 [Medium]
 
 You are given an array of non-negative integers that represents a two-dimensional elevation map where each element is unit-width wall and the integer is the height. Suppose it will rain and all spots between two walls get filled up.
 
@@ -475,7 +475,7 @@ Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in
 
 ---
 
-#### Problem 31
+#### Problem 31 [Easy]
 
 This problem was asked by Google.
 
@@ -487,7 +487,7 @@ Given two strings, compute the edit distance between them.
 
 ---
 
-#### Problem 32
+#### Problem 32 [Hard]
 
 This problem was asked by Jane Street.
 
@@ -499,7 +499,7 @@ There are no transaction costs and you can trade fractional quantities.
 
 ---
 
-#### Problem 33
+#### Problem 33 [Easy]
 
 This problem was asked by Microsoft.
 
@@ -523,7 +523,7 @@ For example, given the sequence [2, 1, 5, 7, 2, 0, 5], your algorithm should pri
 
 ---
 
-#### Problem 34
+#### Problem 34 [Medium]
 
 This problem was asked by Quora.
 
@@ -537,7 +537,7 @@ As another example, given the string "google", you should return "elgoogle".
 
 ---
 
-#### Problem 35
+#### Problem 35 [Hard]
 
 This problem was asked by Google.
 
@@ -551,7 +551,7 @@ For example, given the array ['G', 'B', 'R', 'R', 'B', 'R', 'G'], it should beco
 
 ---
 
-#### Problem 36
+#### Problem 36 [Medium]
 
 This problem was asked by Dropbox.
 
@@ -561,7 +561,7 @@ Given the root to a binary search tree, find the second largest node in the tree
 
 ---
 
-#### Problem 37
+#### Problem 37 [Easy]
 
 This problem was asked by Google.
 
@@ -575,7 +575,7 @@ You may also use a list or array to represent a set.
 
 ---
 
-#### Problem 38
+#### Problem 38 [Hard]
 
 This problem was asked by Microsoft.
 
@@ -585,7 +585,7 @@ You have an N by N board. Write a function that, given N, returns the number of 
 
 ---
 
-#### Problem 39
+#### Problem 39 [Medium]
 
 This problem was asked by Dropbox.
 
@@ -605,7 +605,7 @@ You can represent a live cell with an asterisk `*` and a dead cell with a dot `.
 
 ---
 
-#### Problem 40
+#### Problem 40 [Hard]
 
 This problem was asked by Google.
 
@@ -619,7 +619,7 @@ Do this in $O(N)$ time and $O(1)$ space.
 
 ---
 
-#### Problem 41
+#### Problem 41 [Medium]
 
 This problem was asked by Facebook.
 
@@ -635,7 +635,7 @@ Given the list of flights [('A', 'B'), ('A', 'C'), ('B', 'C'), ('C', 'A')] and s
 
 ---
 
-#### Problem 42
+#### Problem 42 [Hard]
 
 This problem was asked by Google.
 
@@ -649,7 +649,7 @@ For example, given `S = [12, 1, 61, 5, 9, 2]` and `k = 24`, return [12, 9, 2, 1]
 
 ---
 
-#### Problem 43
+#### Problem 43 [Easy]
 
 This problem was asked by Amazon.
 
@@ -665,7 +665,7 @@ Each method should run in constant time.
 
 ---
 
-#### Problem 44
+#### Problem 44 [Medium]
 
 This problem was asked by Google.
 
@@ -681,7 +681,7 @@ For example, a sorted list has zero inversions. The array [2, 4, 1, 3, 5] has th
 
 ---
 
-#### Problem 45
+#### Problem 45 [Easy]
 
 This problem was asked by Two Sigma.
 
@@ -691,7 +691,7 @@ Using a function rand5() that returns an integer from 1 to 5 (inclusive) with un
 
 ---
 
-#### Problem 46
+#### Problem 46 [Hard]
 
 This problem was asked by Amazon.
 
