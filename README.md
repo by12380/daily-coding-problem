@@ -703,7 +703,7 @@ For example, the longest palindromic substring of "aabcdcb" is "bcdcb". The long
 
 ---
 
-#### Problem 47
+#### Problem 47 [Easy]
 
 This problem was asked by Facebook.
 
@@ -715,7 +715,7 @@ For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could bu
 
 ---
 
-#### Problem 48
+#### Problem 48 [Medium]
 
 This problem was asked by Google.
 
@@ -747,7 +747,7 @@ d  e f  g
 
 ---
 
-#### Problem 49
+#### Problem 49 [Medium]
 
 This problem was asked by Amazon.
 
@@ -763,7 +763,7 @@ Do this in O(N) time.
 
 ---
 
-#### Problem 50
+#### Problem 50 [Easy]
 
 This problem was asked by Microsoft.
 
@@ -787,7 +787,7 @@ You should return 45, as it is (3 + 2) * (4 + 5).
 
 ---
 
-#### Problem 51
+#### Problem 51 [Medium]
 
 This problem was asked by Facebook.
 
@@ -801,7 +801,7 @@ Hint: Make sure each one of the 52! permutations of the deck is equally likely.
 
 ---
 
-#### Problem 52
+#### Problem 52 [Hard]
 
 This problem was asked by Google.
 
@@ -815,7 +815,7 @@ Each operation should run in O(1) time.
 
 ---
 
-#### Problem 53
+#### Problem 53 [Medium]
 
 This problem was asked by Apple.
 
@@ -825,7 +825,7 @@ Implement a queue using two stacks. Recall that a queue is a FIFO (first-in, fir
 
 ---
 
-#### Problem 54
+#### Problem 54 [Hard]
 
 This problem was asked by Dropbox.
 
@@ -837,7 +837,7 @@ Implement an efficient sudoku solver.
 
 ---
 
-#### Problem 55
+#### Problem 55 [Easy]
 
 This problem was asked by Microsoft.
 
@@ -852,7 +852,7 @@ Hint: What if we enter the same URL twice?
 
 ---
 
-#### Problem 56
+#### Problem 56 [Medium]
 
 This problem was asked by Google.
 
