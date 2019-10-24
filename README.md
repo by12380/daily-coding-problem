@@ -862,7 +862,7 @@ Given an undirected graph represented as an adjacency matrix and an integer k, w
 
 ---
 
-#### Problem 57
+#### Problem 57 [Medium]
 
 This problem was asked by Amazon.
 
@@ -876,7 +876,7 @@ For example, given the string "the quick brown fox jumps over the lazy dog" and 
 
 ---
 
-#### Problem 58
+#### Problem 58 [Medium]
 
 This problem was asked by Amazon.
 
@@ -892,7 +892,7 @@ You can assume all the integers in the array are unique.
 
 ---
 
-#### Problem 59
+#### Problem 59 [Hard]
 
 This problem was asked by Google.
 
@@ -902,7 +902,7 @@ Implement a file syncing algorithm for two computers over a low-bandwidth networ
 
 ---
 
-#### Problem 60
+#### Problem 60 [Medium]
 
 This problem was asked by Facebook.
 
@@ -916,7 +916,7 @@ Given the multiset {15, 5, 20, 10, 35}, it would return false, since we can't sp
 
 ---
 
-#### Problem 61
+#### Problem 61 [Medium]
 
 This problem was asked by Google.
 
@@ -930,7 +930,7 @@ For example, pow(2, 10) should return 1024.
 
 ---
 
-#### Problem 62
+#### Problem 62 [Medium]
 
 This problem was asked by Facebook.
 
@@ -946,7 +946,7 @@ Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.
 
 ---
 
-#### Problem 63
+#### Problem 63 [Easy]
 
 This problem was asked by Microsoft.
 
@@ -967,7 +967,7 @@ and the target word 'FOAM', you should return true, since it's the leftmost colu
 
 ---
 
-#### Problem 64
+#### Problem 64 [Hard]
 
 This problem was asked by Google.
 
@@ -979,7 +979,7 @@ Given N, write a function to return the number of knight's tours on an N by N ch
 
 ---
 
-#### Problem 65
+#### Problem 65 [Easy]
 
 This problem was asked by Amazon.
 
@@ -1003,7 +1003,7 @@ You should print out the following:
 
 ---
 
-#### Problem 66
+#### Problem 66 [Medium]
 
 This problem was asked by Square.
 
@@ -1015,7 +1015,7 @@ Write a function to simulate an unbiased coin toss.
 
 ---
 
-#### Problem 67
+#### Problem 67 [Hard]
 
 This problem was asked by Google.
 
@@ -1030,7 +1030,7 @@ Each operation should run in O(1) time.
 
 ---
 
-#### Problem 68
+#### Problem 68 [Medium]
 
 This problem was asked by Google.
 
@@ -1062,7 +1062,7 @@ You should return 2, since bishops 1 and 3 attack each other, as well as bishops
 
 ---
 
-#### Problem 69
+#### Problem 69 [Easy]
 
 This problem was asked by Facebook.
 
@@ -1076,7 +1076,7 @@ You can assume the list has at least three integers.
 
 ---
 
-#### Problem 70
+#### Problem 70 [Easy]
 
 A number is considered perfect if its digits sum up to exactly 10.
 
@@ -1088,7 +1088,7 @@ For example, given 1, you should return 19. Given 2, you should return 28.
 
 ---
 
-#### Problem 71
+#### Problem 71 [Easy]
 
 This problem was asked by Two Sigma.
 
@@ -1100,7 +1100,7 @@ Using a function rand7() that returns an integer from 1 to 7 (inclusive) with un
 
 ---
 
-#### Problem 72
+#### Problem 72 [Hard]
 
 This problem was asked by Google.
 
@@ -1134,7 +1134,7 @@ Should return null, since we have an infinite loop.
 
 ---
 
-#### Problem 73
+#### Problem 73 [Easy]
 
 This problem was asked by Google.
 
@@ -1144,7 +1144,7 @@ Given the head of a singly linked list, reverse it in-place.
 
 ---
 
-#### Problem 74
+#### Problem 74 [Medium]
 
 This problem was asked by Apple.
 
@@ -1169,7 +1169,7 @@ And there are 4 12's in the table.
 
 ---
 
-#### Problem 75
+#### Problem 75 [Hard]
 
 This problem was asked by Microsoft.
 
@@ -1181,7 +1181,7 @@ For example, given the array `[0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7,
 
 ---
 
-#### Problem 76
+#### Problem 76 [Medium]
 
 This problem was asked by Google.
 
@@ -1227,7 +1227,7 @@ Your function should return 3, since we would need to remove all the columns to 
 
 ---
 
-#### Problem 77
+#### Problem 77 [Easy]
 
 This problem was asked by Snapchat.
 
@@ -1241,7 +1241,7 @@ For example, given `[(1, 3), (5, 8), (4, 10), (20, 25)]`, you should return `[(1
 
 ---
 
-#### Problem 78
+#### Problem 78 [Medium]
 
 This problem was asked recently by Google.
 
@@ -1251,7 +1251,7 @@ Given k sorted singly linked lists, write a function to merge all the lists into
 
 ---
 
-#### Problem 79
+#### Problem 79 [Medium]
 
 This problem was asked by Facebook.
 
@@ -1265,7 +1265,7 @@ Given the array `[10, 5, 1]`, you should return false, since we can't modify any
 
 ---
 
-#### Problem 80
+#### Problem 80 [Easy]
 
 This problem was asked by Google.
 
@@ -1283,7 +1283,7 @@ d
 
 ---
 
-#### Problem 81
+#### Problem 81 [Easy]
 
 This problem was asked by Yelp.
 
@@ -1295,7 +1295,7 @@ For example if `{'2': ['a', 'b', 'c'], '3': ['d', 'e', 'f'], }` then `"23"` shou
 
 ---
 
-#### Problem 82
+#### Problem 82 [Medium]
 
 This problem was asked Microsoft.
 
@@ -1307,7 +1307,7 @@ For example, given a file with the content "Hello world", three read7() returns 
 
 ---
 
-#### Problem 83
+#### Problem 83 [Medium]
 
 This problem was asked by Google.
 
@@ -1335,7 +1335,7 @@ should become:
 
 ---
 
-#### Problem 84
+#### Problem 84 [Medium]
 
 This problem was asked by Amazon.
 
@@ -1356,7 +1356,7 @@ For example, this matrix has 4 islands.
 
 ---
 
-#### Problem 85
+#### Problem 85 [Medium]
 
 This problem was asked by Facebook.
 
@@ -1366,7 +1366,7 @@ Given three 32-bit integers x, y, and b, return x if b is 1 and y if b is 0, usi
 
 ---
 
-#### Problem 86
+#### Problem 86 [Medium]
 
 This problem was asked by Google.
 
@@ -1378,7 +1378,7 @@ For example, given the string "()())()", you should return 1. Given the string "
 
 ---
 
-#### Problem 87
+#### Problem 87 [Hard]
 
 This problem was asked by Uber.
 
@@ -1411,7 +1411,7 @@ is considered valid.
 
 ---
 
-#### Problem 88
+#### Problem 88 [Medium]
 
 This question was asked by ContextLogic.
 
@@ -1421,7 +1421,7 @@ Implement division of two positive integers without using the division, multipli
 
 ---
 
-#### Problem 89
+#### Problem 89 [Medium]
 
 This problem was asked by LinkedIn.
 
@@ -1433,7 +1433,7 @@ A binary search tree is a tree with two children, left and right, and satisfies 
 
 ---
 
-#### Problem 90
+#### Problem 90 [Medium]
 
 This question was asked by Google.
 
@@ -1443,7 +1443,7 @@ Given an integer n and a list of integers l, write a function that randomly gene
 
 ---
 
-#### Problem 91
+#### Problem 91 [Easy]
 
 This problem was asked by Dropbox.
 
@@ -1462,7 +1462,7 @@ for f in functions:
 
 ---
 
-#### Problem 92
+#### Problem 92 [Hard]
 
 This problem was asked by Airbnb.
 
@@ -1476,7 +1476,7 @@ For example, given `{'CSC300': ['CSC100', 'CSC200'], 'CSC200': ['CSC100'], 'CSC1
 
 ---
 
-#### Problem 93
+#### Problem 93 [Hard]
 
 This problem was asked by Apple.
 
@@ -1488,7 +1488,7 @@ Given a tree, return the size of the largest tree/subtree that is a BST.
 
 ---
 
-#### Problem 94
+#### Problem 94 [Easy]
 
 This problem was asked by Google.
 
