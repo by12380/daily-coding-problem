@@ -29,7 +29,7 @@ Follow-up: what if you can't use division?
 
 ---
 
-#### Problem 3 [Medium]
+#### Problem 3 [Medium] [:link:](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 This problem was asked by Google.
 
