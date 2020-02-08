@@ -15,7 +15,7 @@ Bonus: Can you do this in one pass?
 
 ---
 
-#### Problem 2 [Hard]
+#### Problem 2 [Hard] [:link:](https://leetcode.com/problems/product-of-array-except-self/)
 
 This problem was asked by Uber.
 
