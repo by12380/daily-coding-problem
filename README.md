@@ -39,7 +39,7 @@ Given the root to a binary tree, implement serialize(root), which serializes the
 
 ---
 
-#### Problem 4 [Hard]
+#### Problem 4 [Hard] [:link](https://leetcode.com/problems/first-missing-positive/)
 
 This problem was asked by Stripe.
 
