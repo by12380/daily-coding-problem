@@ -96,7 +96,7 @@ You can assume that the messages are decodable. For example, '001' is not allowe
 
 ---
 
-#### Problem 8 [Easy]
+#### Problem 8 [Easy] [:link:](https://leetcode.com/problems/count-univalue-subtrees/)
 
 This problem was asked by Google.
 
@@ -120,7 +120,7 @@ For example, the following tree has 5 unival subtrees:
 
 ---
 
-#### Problem 9 [Hard]
+#### Problem 9 [Hard] [:link:](https://leetcode.com/problems/house-robber/)
 
 This problem was asked by Airbnb.
 
