@@ -82,7 +82,7 @@ If using a language that has no pointers (such as Python), you can assume you ha
 
 ---
 
-#### Problem 7 [Medium]
+#### Problem 7 [Medium] [:link:](https://leetcode.com/problems/decode-ways/)
 
 This problem was asked by Facebook.
 
